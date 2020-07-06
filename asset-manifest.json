@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/recipe_react_application/static/css/main.4661e502.chunk.css",
+    "main.js": "/recipe_react_application/static/js/main.a4d9cd4d.chunk.js",
+    "main.js.map": "/recipe_react_application/static/js/main.a4d9cd4d.chunk.js.map",
+    "runtime-main.js": "/recipe_react_application/static/js/runtime-main.019055fe.js",
+    "runtime-main.js.map": "/recipe_react_application/static/js/runtime-main.019055fe.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/recipe_react_application/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d1112ee4.chunk.js": "/recipe_react_application/static/js/2.d1112ee4.chunk.js",
+    "static/js/2.d1112ee4.chunk.js.map": "/recipe_react_application/static/js/2.d1112ee4.chunk.js.map",
+    "index.html": "/recipe_react_application/index.html",
+    "precache-manifest.f7f282e87d57e1bebd76af3e5630530c.js": "/recipe_react_application/precache-manifest.f7f282e87d57e1bebd76af3e5630530c.js",
+    "service-worker.js": "/recipe_react_application/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/recipe_react_application/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4661e502.chunk.css.map": "/recipe_react_application/static/css/main.4661e502.chunk.css.map",
+    "static/js/2.d1112ee4.chunk.js.LICENSE.txt": "/recipe_react_application/static/js/2.d1112ee4.chunk.js.LICENSE.txt",
+    "static/media/ant.jpg": "/recipe_react_application/static/media/ant.8999a421.jpg",
+    "static/media/index.css": "/recipe_react_application/static/media/bg.b569b40c.jpg",
+    "static/media/bw.png": "/recipe_react_application/static/media/bw.f61df2e0.png",
+    "static/media/captain.jpg": "/recipe_react_application/static/media/captain.aeb2cb51.jpg",
+    "static/media/doc.jpg": "/recipe_react_application/static/media/doc.36abc6cf.jpg",
+    "static/media/hawk.png": "/recipe_react_application/static/media/hawk.26005083.png",
+    "static/media/hulk.jpg": "/recipe_react_application/static/media/hulk.c65e99d4.jpg",
+    "static/media/iron.jpg": "/recipe_react_application/static/media/iron.39330ec4.jpg",
+    "static/media/thor.png": "/recipe_react_application/static/media/thor.56912861.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.019055fe.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d1112ee4.chunk.js",
+    "static/css/main.4661e502.chunk.css",
+    "static/js/main.a4d9cd4d.chunk.js"
+  ]
+}
